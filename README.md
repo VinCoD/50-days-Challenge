@@ -1,5 +1,5 @@
-# 50-days-Challenge
-A 50 days frontend projects
+<!-- # 50-days-Challenge
+A 50 days frontend projects -->
 
 <h3>Day 1 Output Link</h3>
 
