@@ -1,7 +1,10 @@
 <!-- # 50-days-Challenge
 A 50 days frontend projects -->
 
-<h3>Day 1 Output Link</h3>
+clone the repository
+```
+git clone https://github.com/VinCoD/50-days-Challenge
+```
 
-Day1 Link: https://vincod.github.io/50-days-Challenge/
+Then join me
 
